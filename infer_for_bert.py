@@ -137,4 +137,3 @@ if __name__ == '__main__':
     label_dict = {-1: 'Negative', 0: 'Neutral', 1: 'Positive'}
 
     print('The test results is:', infer_label, label_dict[infer_label])
-
